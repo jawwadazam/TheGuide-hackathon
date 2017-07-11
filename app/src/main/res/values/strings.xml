@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Guide</string>
+    <string name="QR_String">Press the button to Scan QR</string>
+    <string name="qr_button">Scan Now !</string>
+    <string name="nearby_building_str">To find buildings with TheGuide feature nearby press the button below</string>
+    <string name="nearby_buildings_btn">Find Now!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Floor_plan_btn_txt">Floor Plans</string>
+    <string name="Gen_info_btn">General Information</string>
+    <string name="Abt_lecturer_btn_txt">About Lecturers</string>
+    <string name="btn_abt_lecturers">About Lecturers</string>
+</resources>
